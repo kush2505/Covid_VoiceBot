@@ -13,10 +13,8 @@ It can also be done using a suitable JSON file but that would defy the basic pur
 The website from which the data was scraped is https://www.worldometers.info/coronavirus/
 
 **The tool can be used to output the data in 3 forms:**
-1. *Total Global Coronavirus Cases/Deaths*: Just by saying say....'Total number of cases/deaths'.
-
-2. *Daily Coronavirus Cases/Deaths for a Country*: You can go like ' Cases today in Palestine' oops xD
-
-3. *Total Coronavirus Cases/Deaths for a Country*: You can say ' Number of deaths in Iraq' 
+- Total Global Coronavirus Cases/Deaths Just by saying say....'Total number of cases/deaths'
+- *Daily Coronavirus Cases/Deaths for a Country* You can go like ' Cases today in Palestine' oops xD
+- *Total Coronavirus Cases/Deaths for a Country* You can say ' Number of deaths in Iraq' 
 
 The END_PHRASE constant can be made to change as per requirement to exit out of the loop.
